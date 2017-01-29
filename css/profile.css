@@ -1,0 +1,90 @@
+html {
+  background-color: #ebf2e1;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #bed899;
+}
+
+.navbar-brand {
+	color: black;
+}
+
+.nav-link {
+	color: black;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: black;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+.profile-pic {
+	width: 50%;
+}
+
+/* 
+this is a comment
+*/
+
+.card {
+	border: solid #cccccc 1px;
+	border-radius: 4px;
+	padding: 15px;
+	margin-bottom: 10px;
+	box-shadow: 2px 2px 15px #478938;
+}
+
+.jumbotron {
+	background-image: url("../img/skyline.jpg");
+	background-style: cover;
+	height: 100%;
+}
+
+.btn {
+  font-weight: 300 bold;
+}
+
+.btn-primary {
+  background: #ff790c;
+  border-color: #ff790c;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.display-3 {
+	color: white !important;
+}
+
+.display-1 {
+	color: white;
+}
