@@ -17,11 +17,11 @@ strong {
 }
 
 .navbar-brand {
-	color: black;
+	color: white;
 }
 
 .nav-link {
-	color: black;
+	color: white;
 }
 
 .card {
@@ -87,4 +87,16 @@ this is a comment
 
 .display-1 {
 	color: white;
+}
+
+.barone {
+  background-color: orange !important;
+}
+
+.bartwo {
+  background-color: red !important;
+}
+
+.barthree {
+  background-color: green !important;
 }
