@@ -90,13 +90,13 @@ this is a comment
 }
 
 .barone {
-  background-color: orange !important;
+  background-color: orange;
 }
 
 .bartwo {
-  background-color: red !important;
+  background-color: red;
 }
 
 .barthree {
-  background-color: green !important;
+  background-color: green;
 }
